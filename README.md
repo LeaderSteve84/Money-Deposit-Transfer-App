@@ -1,6 +1,6 @@
-# Ravenpay Backend Assessment
+# Money Deposit and Transfer App - Ravenpay Integrated API
 
-A backend API for a money transfer application built as part of the Ravenpay Backend Engineer assessment. The project includes user authentication, virtual account generation, webhook handling for deposits, interbank transfers via Raven Atlas API, and transaction history retrieval.
+A backend API for a money transfer application built as a Ravenpay Backend Engineer skill. The project includes user authentication, virtual account generation, webhook handling for deposits, interbank transfers via Raven Atlas API, and transaction history retrieval.
 
 ---
 
@@ -52,8 +52,8 @@ ravenpay-backend-assessment/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/LeaderSteve84/ravenpay-backend-assessment.git
-cd ravenpay-backend-assessment
+git clone https://github.com/LeaderSteve84/Money-Deposit-Transfer-App.git
+cd Money-Deposit-Transfer-App
 
 ### 2. Install Dependencies
 npm install
